@@ -31,10 +31,8 @@ window.game.start = ->
     Crafty.background "rgb(249, 223, 125)"
 
     # Place a tree at every edge square on our grid of 16x16 tiles
-    x = 0
-    while x < game.map_grid.width
-      y = 0
-      while y < game.map_grid.height
+    for x in [0..game.map_grid.width] by 1
+      for y in [0..game.map_grid.height] by 1
         at_edge = x is 0 or x is game.map_grid.width - 1 or y is 0 or y is game.map_grid.height - 1
         if at_edge
           # Place a tree entity at the current tile
