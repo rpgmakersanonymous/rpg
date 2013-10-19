@@ -5,15 +5,12 @@ RPG
 * [Free Game Art](http://opengameart.org/)
 
 ### Game Description 
+* [User Experience](USER_EXPERIENCE.md)
 * [Setting](SETTING.md)
-* User Experience 
-	* multi-player turn based
-	* main screen and controllers
 * Game Mechanics
-	* skills + experience
-	* combat 
 
-Combat
+
+Combat (move to game mechanics)
 ======
 The focus of this game is to provide a deep strategy, rich, combat experience.
 Every character is a magic user to some degree.
