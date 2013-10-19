@@ -12,6 +12,7 @@ This guide clarifies the differences between the tutorial organization and the o
 	* **crafty.js** The Crafty Engine 
 		* ```wget http://craftyjs.com/release/0.5.3/crafty.js```
 * **index.html** The main console where Crafty is rendering
+	* open this file in your browser to view game
 * **src/** Directory for custom game related code (your engine)
 	* **game.js** Your Game Logic
 * **assets/** Directory for media files and other binary data
@@ -20,6 +21,9 @@ This guide clarifies the differences between the tutorial organization and the o
 
 Rails Organization
 ==================
+
+### Game Startup
+```rails server```
 
 ### Generated Controller + View
 ```rails generate controller Game index```
