@@ -1,6 +1,8 @@
 RPG
 ===
 
+[Free Game Art](http://opengameart.org/)
+
 Setting:
 * The Dark Ages
 * Magic is Alive
