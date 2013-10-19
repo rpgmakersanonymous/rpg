@@ -14,7 +14,7 @@ A player will open a game session on their tv through a connected computer or ot
 The Main Display will essentially consist of a 2d overhead map of the players, enemies, and the environment.
 Animation is an eventual goal.
 
-#### controller(s)
+#### Controller(s)
 This game is expected to be controlled by a touch screen.  Either a players smartphone, tablet, or laptop will do.
 While not everyone can play this, many walk around with this hard ware now, and browser enabled tvs are becoming more common.
 
@@ -33,7 +33,9 @@ The controller view will be optimized for mobile touch screens, and secondarily 
 * encounters occur within a micro map
 
 ## movement
+
 ## actions
+
 ## girlfriend mode
 * the point is to let friends play together
 * if one person has played 50 hours
