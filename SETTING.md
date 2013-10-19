@@ -1,3 +1,7 @@
+---
+Title: Setting
+---
+
 The Dark Ages
 =============
 
