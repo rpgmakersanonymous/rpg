@@ -61,7 +61,13 @@ http://stackoverflow.com/questions/6287440/rails-3-good-rule-of-thumb-for-where-
 * lib/assets/javascripts/*.js: 1st party reusable functions
 * vendor/assets/javascripts/*.js: 3rd party javascripts (crafty.js)
 
+## Steps
+* get javascript file to vendor/assets/javascripts/
+	* does it need to be required?
+* get zip file, unzip to app/assets/game/
+	* does it need to be required?
 
-
-
+* follow tutorial
+	* index.html.erb
+	* rails generate controller Game index
 
