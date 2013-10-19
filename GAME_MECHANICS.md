@@ -1,3 +1,6 @@
+---
+Title: Game Mechanics
+---
 
 Combat (move to game mechanics)
 ======
