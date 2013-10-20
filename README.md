@@ -5,7 +5,7 @@ RPG
 
 ### Game Description
 
-**[Wiki](http://rpgmakersanonymous.github.io/rpg/)**
+**[Wiki](https://github.com/rpgmakersanonymous/rpg/wiki)**
 
 * for internal design documents
 
