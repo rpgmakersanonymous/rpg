@@ -14,8 +14,12 @@ RPG
 * for public advertising
 
 ##### to get wiki repo
-It is a separate repo
-Clone to ./wiki
+It is a separate repo, clone it to ./wiki/
+
+```
+	cd ~/rpg
+	git clone https://github.com/rpgmakersanonymous/rpg.wiki.git wiki
+```
 
 ##### to get pages repo
 It is an orphan branch
