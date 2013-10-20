@@ -4,9 +4,22 @@ RPG
 * [Free Game Art](http://opengameart.org/)
 
 ### Game Description
-[Github Pages](http://rpgmakersanonymous.github.io/rpg/)
 
-##### to get this:
+**[Wiki](http://rpgmakersanonymous.github.io/rpg/)**
+
+* for internal design documents
+
+**[Pages](http://rpgmakersanonymous.github.io/rpg/)**
+
+* for public advertising
+
+##### to get wiki repo
+It is a separate repo
+Clone to ./wiki
+
+##### to get pages repo
+It is an orphan branch
+
 	```
 	git fetch origin
 	git checkout gh-pages
@@ -14,5 +27,4 @@ RPG
 
 ### Issues/Enhancements
 Tracked in Github Issues
-
 
