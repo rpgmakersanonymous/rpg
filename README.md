@@ -1,34 +1,39 @@
 RPG
 ===
-### Resources
+
+* **[Issue Tracking](https://github.com/rpgmakersanonymous/rpg/issues)**
+* **[Development Wiki](https://github.com/rpgmakersanonymous/rpg/wiki)**
+* **[Website(eventually)](http://rpgmakersanonymous.github.io/rpg/)**
+
 * [Free Game Art](http://opengameart.org/)
 
-### Game Description
+### To Edit
 
-**[Wiki](https://github.com/rpgmakersanonymous/rpg/wiki)**
-
-* for internal design documents
-
-**[Pages](http://rpgmakersanonymous.github.io/rpg/)**
-
-* for public advertising
-
-##### to get wiki repo
-It is a separate repo, clone it to ./wiki/
+##### Code Repo
 
 ```
-	cd ~/rpg
-	git clone https://github.com/rpgmakersanonymous/rpg.wiki.git wiki
+	$ git clone https://github.com/rpgmakersanonymous/rpg.git rpg
+	$ cd rpg
+	$ git checkout -b feature_branch
 ```
 
-##### to get pages repo
-It is an orphan branch
+##### Wiki
+
+It is a separate repo, clone it to **./wiki/**
+
+```
+	$ cd ~/rpg # root of your rpg.git repo
+	$ git clone https://github.com/rpgmakersanonymous/rpg.wiki.git wiki # put it in a sub-dir
+	$ cd wiki
+```
+
+##### GH-Pages
+It is an orphan branch with separate files, treat it like the **wiki**
 
 	```
-	git fetch origin
-	git checkout gh-pages
+		$ cd ~/rpg # root of your rpg.git repo
+		$ git clone https://github.com/rpgmakersanonymous/rpg.git gh-pages # put it in a sub-dir
+		$ git checkout gh-pages # always work on this branch, and push to origin gh-pages
 	```
 
-### Issues/Enhancements
-Tracked in Github Issues
 
